@@ -1,0 +1,42 @@
+_repo: The-Clarion_16447
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stevens, William Dodge
+    alias: Stevens, W. D. (William Dodge)
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '6720'
+    url: http://www.gutenberg.org/2009/agents/6720
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, Samuel Hopkins
+    alias: Fabian, Warner
+    birthdate: 1871
+    deathdate: 1958
+    gutenberg_agent_id: '1635'
+    url: http://www.gutenberg.org/2009/agents/1635
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Hopkins_Adams
+description: Harrington Surtaine is a starry-eyed idealist who purchases the Clarion,
+  a small-town newspaper. He immediately launches an attack against local slum conditions.
+  One of the vilest slum properties is owned by wealthy Marion Dentler, with whom
+  Blackwell has fallen in love.
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Slums -- Fiction'
+- !lcsh 'Newspapers -- Fiction'
+- !lcsh 'Reporters and reporting -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Clarion
+url: http://www.gutenberg.org/ebooks/16447
